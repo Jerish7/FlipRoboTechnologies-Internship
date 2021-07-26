@@ -4,3 +4,4 @@
 4. Housing Price Prediction Project
 5. Assignments Worksheets
 6. Malignant Comments Classifier Project
+7. Fake News Classifier Project
