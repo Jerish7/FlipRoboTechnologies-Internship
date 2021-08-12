@@ -5,3 +5,4 @@
 5. Assignments Worksheets
 6. Malignant Comments Classifier Project
 7. Fake News Classifier Project
+8. Car Price Prediction Project
